@@ -1,0 +1,50 @@
+body
+
+h1{
+  color:black;
+  font-weight:bold;
+  text-align:center;
+  font-size:48px;
+  border:solid 10px;
+  border-style:double  
+}
+
+ul{
+  list-style-type: none;
+}
+
+#random{
+  border-radius:15px;
+  margin:30px;
+  font-size:24px;
+  font-weight:bold; 
+}
+
+input{
+  width: 400px;
+  border-radius: 10px;
+  margin-bottom:30px;
+  font-size:20px;
+  padding-left:15px;
+}
+
+button{
+  margin-bottom:30px;
+  font-size:20px;
+  border-radius: 15px;
+  background-color:white;
+  color:black;
+}
+
+#output{
+  font-size:18px; 
+}
+
+a:link{
+  color:white;
+}
+
+p{
+  color:white;
+  margin-bottom:50px;
+}
